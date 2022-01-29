@@ -1,3 +1,6 @@
+## TODO: integrate this with [WebdevHome](https://github.com/hitchh1ker/webdevhome.github.io)'s fuzzy search.
+## TODO: Use this as my personal kn system.
+
 [**Live web version here**](https://kormyen.github.io/memex/)
 
 **Memex** is a [personal knowledge base](https://scholar.colorado.edu/csci_techreports/931/).
