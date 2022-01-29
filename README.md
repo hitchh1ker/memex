@@ -1,6 +1,27 @@
 ## TODO: integrate this with [WebdevHome](https://github.com/hitchh1ker/webdevhome.github.io)'s fuzzy search.
 ## TODO: Use this as my personal kn system.
 
+### Structure of db
+The structure of the db is [TAG][space]:[space][CONTENT]. 
+Multiple lines can be achieved with [TAG]\n[>,&,-][CONTENT 1]\n[>,&,-][CONTENT 2]... 
+See https://github.com/kormyen/memex/blob/master/logic/view/util.js for supported icons.
+
+- LINK: a clickable link
+- TYPE: the memex type, can be tool, podcast, list, music, article, book, video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
+- DATE: a date, can be anything
+- TAGS: words separated by commas, trackable on the left bar
+- DONE: true/false can be used to check the item status, trackable on the left bar
+- QOTE: a quote
+- AUTH: the author
+- FILE: can be a file link or an image to be shown
+- PROJ: a project, visible on the left bar
+- NOTE: a note, for example description etc.
+- TERM: the term described
+- PROJ: a project, visible on the left bar
+- PERS: ? Person?
+- REVI: ? Revision?
+- SRCE: ? Source?
+
 [**Live web version here**](https://kormyen.github.io/memex/)
 
 **Memex** is a [personal knowledge base](https://scholar.colorado.edu/csci_techreports/931/).
