@@ -1,7 +1,7 @@
 ## TODO: integrate this with [WebdevHome](https://github.com/hitchh1ker/webdevhome.github.io)'s fuzzy search.
 ## TODO: Use this as my personal kn system.
 
-### Structure of db
+### Structure of db ([found here](https://www.reddit.com/r/startpages/comments/my9ff3/memex_a_personal_knowledge_database_im_using_as/))
 The structure of the db is [TAG][space]:[space][CONTENT]. 
 Multiple lines can be achieved with [TAG]\n[>,&,-][CONTENT 1]\n[>,&,-][CONTENT 2]... 
 See https://github.com/kormyen/memex/blob/master/logic/view/util.js for supported icons.
@@ -121,3 +121,4 @@ Stored in a human-readable, flat-file database called [Indental](https://wiki.xx
 Hamish MacDonald
 
 **[Twitter](https://twitter.com/kormyen)** &middot; **[Home](https://kor.nz)**
+**[u/kormyen's reddit](https://www.reddit.com/user/kormyen/)
